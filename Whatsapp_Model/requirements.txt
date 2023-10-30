@@ -1,0 +1,8 @@
+django_emoji
+emoji
+matplotlib
+pandas
+seaborn
+streamlit
+urlextract
+wordcloud
